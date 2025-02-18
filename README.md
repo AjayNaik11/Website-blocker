@@ -1,0 +1,1 @@
+Developed a Google Chrome extension that blocks specified websites during working hours and automatically restores access during non-working hours, leveraging Python, Windows host file modifications, and networking techniques to enhance focus and productivity.
